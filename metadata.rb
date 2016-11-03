@@ -1,0 +1,11 @@
+name             'jruby_mm_test'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures jruby_mm_test'
+long_description 'Installs/Configures jruby_mm_test'
+version          '0.1.0'
+
+depends 'build-essential'
+depends 'java'
+depends 'rbenv'
